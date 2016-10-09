@@ -1,6 +1,6 @@
 1. E
 2. A
-3. ~~CE~~AE
+3. ~~CE~~ AE
 4. AF
 5. ~~CEH~~ ADI
 6. ~~BFH~~ AEG
