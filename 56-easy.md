@@ -1,10 +1,10 @@
-1.B
-2.C
-3.BE
-4.CD
-5.BDH
-6.AFI
-7.AC
-8.AE
-9.CE
-10.DF
+1. B
+2. C
+3. BE
+4. CD
+5. BDH
+6. AFI
+7. AC
+8. AE
+9. CE
+10. DF
