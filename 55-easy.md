@@ -1,0 +1,10 @@
+E
+A
+CE
+AF
+CEH
+BFH
+AB
+BE
+EF
+CE

@@ -1,0 +1,10 @@
+B
+C
+BE
+CD
+BDH
+AFI
+AC
+AE
+CE
+DF
