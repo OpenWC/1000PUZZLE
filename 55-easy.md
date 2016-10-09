@@ -1,0 +1,10 @@
+1. E
+2. A
+3. CE
+4. AF
+5. CEH
+6. BFH
+7. AB
+8. BE
+9. EF
+10. CE
