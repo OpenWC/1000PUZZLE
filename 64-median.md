@@ -1,0 +1,10 @@
+1. B
+2. E
+3. CF
+4. BE
+5. CFG
+6. CDH
+7. AF
+8. EF
+9. AB
+10. AC
