@@ -1,10 +1,10 @@
 1. D
-2. D
-3. BD
+2. ~~D~~ A
+3. ~~BD~~ AF
 4. AF
-5. AEH
-6. *
-7. AF
-8. BC
-9. DE
+5. ~~AEH~~ AEG
+6. ~~*~~ CFG
+7. ~~AF~~ BF
+8. ~~BC~~ BF
+9. ~~DE~~ AB
 10. AC
