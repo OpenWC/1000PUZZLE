@@ -1,7 +1,7 @@
 1. E
 2. B
-3. CD
-4. AE
+3. ~~CD~~ CE
+4. ~~AE~~ CE
 5. BD
 6. AFI
 7. DE
