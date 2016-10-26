@@ -1,10 +1,10 @@
-1. C 
+1. ~~C~~ E
 2. B
-3. BF 
-4. CF
-5. BEH
-6. ADG
-7. 
-8. BF
+3. ~~BF~~ CE
+4. ~~CF~~ BF
+5. ~~BEH~~ AEH
+6. ~~ADG~~ BDG
+7. ~~AF~~ BD
+8. ~~BF~~ AB
 9. AE
-10. BC
+10. ~~BC~~ CE
