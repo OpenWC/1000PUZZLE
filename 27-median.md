@@ -1,0 +1,10 @@
+1. C
+2. A
+3. AD
+4. BE
+5. ADI
+6. BDG
+7. CF
+8. AB
+9. CD
+10. DE
