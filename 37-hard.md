@@ -1,0 +1,10 @@
+1. ~~A~~ C
+2. ~~D~~ E 
+3. ~~AE~~ CE
+4. ~~AD~~ CE
+5. ~~ADI~~ CEI
+6. ~~AEG~~ BDI
+7. ~~AB~~ CE
+8. ~~AE~~ DF
+9. ~~CD~~ CF
+10. ~~CD~~ DF
