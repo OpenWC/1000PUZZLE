@@ -2,9 +2,9 @@
 2. B
 3. BE
 4. BD
-5. AEH
-6. ADI
-7. BC
-8. CE
-9. DE
+5. ~~AEH~~ CEH
+6. ~~ADI~~ AEI
+7. ~~BC~~ CE
+8. ~~CE~~ DF
+9. ~~DE~~ CE
 10. BD
