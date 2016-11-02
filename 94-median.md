@@ -1,0 +1,10 @@
+1. ~~A~~ D
+2. ~~B~~ D
+3. ~~AE~~ BE
+4. ~~AE~~ AD
+5. ~~BFG~~ BDG
+6. ~~BDG~~ BFI
+7. ~~EF~~ BF
+8. ~~BE~~ BD
+9. ~~AB~~ BF
+10. ~~EF~~ BD
