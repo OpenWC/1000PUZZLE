@@ -1,0 +1,11 @@
+impe-netrable
+impe-dance
+indiscriminate
+undiscriminating
+contention
+encyclopedic
+shackle
+scrupulous
+tendentious
+importunate
+misfeasance 失职
