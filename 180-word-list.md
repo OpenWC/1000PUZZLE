@@ -9,3 +9,5 @@ scrupulous
 tendentious
 importunate
 misfeasance 失职
+deprivation
+haphazardly = random
