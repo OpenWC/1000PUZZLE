@@ -13,3 +13,7 @@ deprivation
 haphazardly = random
 polemical 有“强烈支持和反对”的意思,也就是“立场鲜明”
 wondrous = amazing
+factuality 事实性
+veracity  真实性
+paltry 无价值
+meager 缺乏的
