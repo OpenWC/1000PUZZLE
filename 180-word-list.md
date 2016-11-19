@@ -12,3 +12,4 @@ misfeasance 失职
 deprivation
 haphazardly = random
 polemical 有“强烈支持和反对”的意思,也就是“立场鲜明”
+wondrous = amazing
