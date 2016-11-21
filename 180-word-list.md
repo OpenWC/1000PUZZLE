@@ -27,4 +27,10 @@ sleazy 令人厌恶
 sordid  卑鄙的
 
 excoriate 指责
+
 inflating 夸大
+wondrous = amazing
+factuality 事实性
+veracity  真实性
+paltry 无价值
+meager 缺乏的
