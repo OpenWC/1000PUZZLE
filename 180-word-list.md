@@ -49,3 +49,7 @@ repertoire
 unwieldy  笨重的，难以操作的
 lull = respite 间歇
 obviate 排除
+experimental 创新的
+evanescent  逐渐消失的,短暂的
+expeditious  迅速的
+contingent  取决于
