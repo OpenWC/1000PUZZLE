@@ -34,3 +34,22 @@ factuality 事实性
 veracity  真实性
 paltry 无价值
 meager 缺乏的
+
+impetuous  1.冲动的  2.剧烈的
+membrane 薄膜
+porous 多孔的
+permeable 可渗透的
+languish 衰弱
+propriety  1.礼节 2.适当得体
+vehement = fiery 热情的,impassioned 热情 
+preclude  1.预先阻止  2.排斥
+dispute 争议，争论，争吵
+formidable 1.令人害怕的  2.艰难的
+repertoire
+unwieldy  笨重的，难以操作的
+lull = respite 间歇
+obviate 排除
+experimental 创新的
+evanescent  逐渐消失的,短暂的
+expeditious  迅速的
+contingent  取决于
