@@ -17,3 +17,5 @@ factuality 事实性
 veracity  真实性
 paltry 无价值
 meager 缺乏的
+extirpate 消除，灭绝
+obviate 消除，避免
